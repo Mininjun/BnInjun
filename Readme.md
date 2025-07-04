@@ -3,7 +3,7 @@
 🌱 I’m currently learning **HTML, CSS, JavaScript, and DSA**.  
 💻 My goal is to become a **full-stack developer** and contribute to open source.  
 🔭 I’m working on projects like **portfolio websites, small apps, and algorithm practice**.  
-📫 How to reach me: [your email] | [LinkedIn profile link]
+📫 How to reach me: [injamamseikh7@gmail.com] | [https://www.linkedin.com/in/injamam-seikh-6b5035367/]
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
